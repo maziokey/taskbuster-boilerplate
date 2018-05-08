@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chima Okechukwu -- Developer -- @okeymaxi
 
 # THANKS
 
-    <name>
+    Thanks to all my Blog readers, who encouraged me to write the
+    TaskBuster Django Tutorial
 
 # TECHNOLOGY COLOPHON
 
+    Django
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Twitter bootstrap, jQuery, Modernizr, Normalize.css
